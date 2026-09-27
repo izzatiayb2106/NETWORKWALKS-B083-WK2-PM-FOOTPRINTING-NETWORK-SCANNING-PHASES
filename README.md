@@ -68,10 +68,10 @@ Only 1 host found: `learn.microsoft.com`. Many sources require API keys; Yahoo r
 ## PM5 - Network Scanning with Zenmap
 
 ### Local IP & subnet
-Identified 192.168.56.1/24 and 192.168.172.1/24 from ipconfig.
+Identified 192.168.100.100/24 from ipconfig.
 
-### Ping scan of 192.168.56.0/24
-256 IPs scanned; 1 live host found (the Windows host itself). Kali VM was powered off at scan time.
+### Ping scan of 192.168.100.100/24
+IPs address scanned; 5 live host found (the Windows host itself). Kali VM was powered on at scan time.
 
 ### Nmap Output
 Raw output of the ping scan.
