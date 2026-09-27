@@ -68,7 +68,7 @@ Only 1 host found: `learn.microsoft.com`. Many sources require API keys; Yahoo r
 ## PM5 - Network Scanning with Zenmap
 
 ### Local IP & subnet
-Identified 192.168.100.100/24 from ipconfig.
+Identified 192.168.100.0/24 from ipconfig.
 
 ### Ping scan of 192.168.100.100/24
 IPs address scanned; 5 live host found (the Windows host itself). Kali VM was powered on at scan time.
@@ -80,6 +80,23 @@ Raw output of the ping scan.
 Network topology generated and saved as PDF on the Desktop.
 
 ---
+
+## Screenshots (Evidence)
+
+All screenshots are in the `/week2` folder:
+
+```
+screenshots/
+├── whois.png             # WHOIS output
+├── whatweb_nslookup.png  # WhatWeb fingerprint
+├── dnsrecon.png          # DNSRecon DNS records
+├── curl.png              # Curl -I HTTP headers
+├── wafwoof.png           # Wafw00f WAF detection
+├── harvester1000         # Harvester 1000 results
+├── harvester50           # Harvester 50 results
+├── zenmap.png            # Zenmap ping scan results
+└── topology.png          # Zenmap network topology map
+```
 
 ## Risk Analysis
 
