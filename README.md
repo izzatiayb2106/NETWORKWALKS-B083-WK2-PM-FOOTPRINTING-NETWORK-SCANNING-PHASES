@@ -128,7 +128,7 @@ screenshots/
 
 ## Conclusion
 
-Week 2 covered the reconnaissance and scanning phases of cybersecurity. Using six Kali tools, theHarvester, and Zenmap, I built a complete picture of the target without touching any system directly. The exercises showed that recon is passive, powerful, and hard to detect — and that defenders must run the same tools on their own infrastructure to know what they're leaking.
+Week 2 covered the reconnaissance and scanning phases of cybersecurity. Using six Kali tools, theHarvester, and Zenmap, I built a complete picture of the target without touching any system directly. The exercises showed that recon is passive, powerful, and hard to detect — and that defenders must run the same tools on their own infrastructure to know what they're leaking. The detailed report is documented in the pentest report.pdf
 
 Key lesson: **you cannot attack what you have not first understood.**
 
